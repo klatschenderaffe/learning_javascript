@@ -23,8 +23,8 @@ Ich möchte meine Kenntnisse in JavaScript ausbauen, weshalb ich mich an diesem 
 ## 🚀 Installation
 
 1. Klone dir das Repo:
-   `git clone `
-2. Öffne die index.html Datei in deinem Browser.
+   `git clone git@github.com:klatschenderaffe/learning_javascript.git`
+2. Öffne die index.html Datei aus dem quiz Ordner in deinem Browser.
    `index.html in ein Browserfenster ziehen`
 3. Spielen und glücklick sein. 😊
 
